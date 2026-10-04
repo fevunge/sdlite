@@ -91,7 +91,7 @@ namespace sdl
     {
     private:
         bool initialized;
-        Window &window;
+        Window *window;
         Pencil *pencil;
 
     public:
