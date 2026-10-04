@@ -1,4 +1,4 @@
-#include <sdlo.hpp>
+#include <sdloo.hpp>
 
 sdl::Window::Window()
 {
